@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ملتقط عملات ألفا</string>
+    <string name="score_label">النتيجة</string>
+    <string name="lives_label">المحاولات</string>
+    <string name="game_over">انتهت اللعبة</string>
+    <string name="tap_to_restart">المس لإعادة المحاولة</string>
+</resources>
